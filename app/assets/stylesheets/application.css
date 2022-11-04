@@ -90,6 +90,10 @@ label {
   color: green;
 }
 
+a:link {
+ color: black;
+}
+
 a:visited {
   color: gray;
 }
